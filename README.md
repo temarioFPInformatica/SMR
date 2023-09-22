@@ -18,7 +18,7 @@
 - Empresa e iniciativa emprendedora. (66h).
 - Formación en Centros de Trabajo. (380h.)
 
-* Proyecto de desarrollo de aplicaciones multiplataforma.
+* Proyecto de sistemas microinformáticos y redes.
 * Formación en centros de trabajo.
 
 
